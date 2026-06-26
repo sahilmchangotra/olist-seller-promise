@@ -123,6 +123,16 @@ Every block ends with a stakeholder message written to Lars, translating SQL fin
 
 ---
 
+## 📈 Project Status
+
+| Component | Status | Details |
+|---|---|---|
+| **SQL Analysis** | ✅ Complete | 6 blocks · SP1 to SP6 · 18 queries across delivery, gaming, revenue and satisfaction analysis |
+| **Tableau Dashboard** | ✅ Complete | 5 dashboard pages · Tableau Story published on Tableau Public |
+| **Python Visualizations** | 🔄 In Progress | Data visualizations for all SP blocks using pandas · matplotlib · seaborn |
+
+---
+
 ## 🛠️ SQL Concepts Applied
 
 | Concept | Status | Block |
