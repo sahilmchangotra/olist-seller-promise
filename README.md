@@ -3,7 +3,7 @@
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-pandas%20%7C%20seaborn-green?logo=python)
-![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange?logo=tableau)
+[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange?logo=tableau)](https://public.tableau.com/views/OLIST-Seller-Promise-Analytics/OLISTSellerPromiseAnalytics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Blocks](https://img.shields.io/badge/Blocks-SP1--SP6-purple)
 
@@ -175,6 +175,14 @@ Every block ends with a stakeholder message written to Lars, translating SQL fin
 | **Python** (pandas, seaborn, matplotlib) | Data visualisation |
 | **Tableau Public** | Interactive dashboard |
 | **GitHub** | Version control and portfolio publishing |
+
+---
+
+## 📊 Interactive Dashboard
+
+[![Tableau](https://img.shields.io/badge/View%20Dashboard-Tableau%20Public-orange?logo=tableau)](https://public.tableau.com/views/OLIST-Seller-Promise-Analytics/OLISTSellerPromiseAnalytics?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+5 dashboard pages covering Platform Health, Promise Change Impact, Gaming Audit, Revenue Risk and Customer Satisfaction — built as a Tableau Story.
 
 ---
 
